@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Add a Bill</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Bill Name:</string>
+    <string name="amount">Amount:</string>
+    <string name="about">About</string>
+    <string name="dollarsign">$</string>
+    <string name="amountvaries">Amount varies?</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="date">Date: </string>
+
+</resources>
